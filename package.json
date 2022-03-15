@@ -1,0 +1,23 @@
+{
+  "name": "aulasblue",
+  "version": "1.0.0",
+  "description": "Aqui irá ficar os códigos das aulas da Blue",
+  "main": "aulaArray.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeodoroWillian/aulasBlue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeodoroWillian/aulasBlue/issues"
+  },
+  "homepage": "https://github.com/TeodoroWillian/aulasBlue#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
